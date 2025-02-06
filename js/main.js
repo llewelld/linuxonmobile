@@ -1,6 +1,6 @@
 $(function() {
   // The number of items to shuffle
-  const ELEMENT_NUM = 8;
+  const ELEMENT_NUM = 9;
 
   // Swap two elements in the DOM
   const swapElements = function (id1, id2) {

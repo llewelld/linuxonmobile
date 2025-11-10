@@ -19,7 +19,7 @@ $(function() {
   };
 
   // Build an array of elements to shuffle
-  var array = [];  
+  var array = [];
   for (let count = 0; count < ELEMENT_NUM; ++count) {
     array.push("#project" + count);
   }
